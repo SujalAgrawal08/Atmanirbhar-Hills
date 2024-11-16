@@ -1,6 +1,6 @@
 # Atmanirbhar Hills (Ongoing)
 
-Atmanirbhar Hills is a government e-commerce platform designed to support the vision of Atma Nirbhar Bharat by empowering local sellers in Himachal Pradesh. The platform features community-driven commerce, cultural impact, and personalized shopping experiences.
+Atmanirbhar Hills is a government online retail platform designed to support the vision of Atma Nirbhar Bharat by empowering local sellers in Himachal Pradesh. The platform features community-driven commerce, cultural impact, and personalized shopping experiences.
 
 ![Project Preview](images/demo.png)
 
