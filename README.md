@@ -33,10 +33,13 @@ Atmanirbhar Hills is a government-backed online retail platform designed to supp
 3. Install dependencies:
    ```bash
    npm install
-4. Run the application:
+4. Run the application(react-app):
    ```bash
    npm start
-5. Open the application in your browser at http://localhost:3000.
+5. Run the backend(node-app):
+   ```bash
+   npm run dev
+6. Open the application in your browser at http://localhost:3000.
 
 ### Acknowledgments
 - Inspired by the Atma Nirbhar Bharat initiative.
