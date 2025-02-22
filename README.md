@@ -26,10 +26,10 @@ Atmanirbhar Hills is a government-backed online retail platform designed to supp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/atmanirbhar-hills.git
+   git clone https://github.com/SujalAgrawal08/Atmanirbhar-Hills.git
 2. Navigate to the project directory:
    ```bash
-   cd atmanirbhar-hills
+   cd Atmanirbhar-Hills
 3. Install dependencies:
    ```bash
    npm install
