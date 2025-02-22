@@ -1,0 +1,59 @@
+.product-detail-container {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+
+.carousel .slide img {
+  border-radius: 10px;
+  max-height: 400px;
+  object-fit: contain;
+}
+
+.carousel .legend {
+  background: rgba(0, 0, 0, 0.5);
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+}
+
+.text-primary {
+  color: #6c0345 !important;
+}
+
+.text-success {
+  color: #28a745 !important;
+}
+
+.text-secondary {
+  color: #6c0345 !important;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.btn-outline-primary {
+  border-color: #6c0345;
+  color: #6c0345;
+  transition: all 0.3s ease;
+}
+
+.btn-outline-primary:hover {
+  background-color: #6c0345;
+  color: #ffffff;
+  border-color: #6c0345;
+}
+
+.contact-info {
+  background-color: #f1f1f1;
+}
+
+.contact-info h5 {
+  border-bottom: 2px solid #6c0345;
+  padding-bottom: 10px;
+}

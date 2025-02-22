@@ -1,0 +1,68 @@
+.header-container {
+  padding: 10px 10px;
+  background-color: #fff8dc;
+  border-bottom: 3px solid #fff;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+.cat-container {
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+  padding: 8px 20px;
+}
+
+.mt-3 {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.search {
+  margin-left: 20px;
+  outline: none;
+  padding-left: 10px;
+  width: 650px;
+  height: 50px;
+  border: 2px solid #002f34;
+  border-radius: 4px 0px 0px 4px;
+}
+
+.search-btn {
+  height: 50px;
+  background-color: #6c0345;
+  color: #fff;
+  border-radius: 0px 4px 4px 0px;
+  outline: none;
+  border: none;
+  padding: 0px 15px;
+}
+
+.logout-btn {
+  height: 35px;
+  background-color: #6c0345;
+  color: #fff;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  padding: 1px 16px;
+  margin-right: 10px;
+}
+
+.category {
+  color: rgba(0, 47, 52, 1);
+  padding: 7px;
+  cursor: pointer;
+}
+
+.logo {
+  width: 225px;
+  height: 58px;
+  margin-right: 2.5rem;
+  background-image: url("./Blue\ Modern\ Initials\ Letter\ E\ Financial\ Logo\ \(320\ x\ 91\ px\)\ \(3\).png");
+  background-size: cover;
+  background-position: center;
+}
+.service:hover {
+  cursor: pointer;
+}
+.user:hover {
+  cursor: pointer;
+}
