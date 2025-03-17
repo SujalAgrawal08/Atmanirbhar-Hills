@@ -16,7 +16,7 @@ Atmanirbhar Hills is a government-backed online retail platform designed to supp
 
 ## Tech Stack
 
-- **Frontend**: React.js, Bootstrap, SwiperJs, Toastify, HTML, CSS, JavaScript
+- **Frontend**: React.js, Bootstrap, SwiperJs, Toastify, CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
