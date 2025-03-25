@@ -1,4 +1,4 @@
-
+require('dotenv').config();
 const express = require('express')
 const cors = require('cors')
 const path = require('path');
@@ -27,7 +27,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 const port = 4000
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/')
+mongoose.connect(process.env.MONGODB_URI)
+
 
 app.get('/', (req, res) => {
     res.send('hello...')
